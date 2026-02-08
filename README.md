@@ -10,7 +10,7 @@
 ## 快速导航（面试官入口）
 - 作品概览：00-Portfolio/Overview.md
 - 技能矩阵：00-Portfolio/Skills-Matrix.md
-- Runbook（故障处理手册）：01-Runbooks/
+- Runbook（课题组IT设备使用手册）：01-Runbooks/
 - Zabbix 监控告警：02-Monitoring/Zabbix/
 - Ansible 自动化：03-Automation/Ansible/
 - Docker 部署示例：04-Container/Docker/
@@ -20,3 +20,4 @@
 - Zabbix 告警闭环：02-Monitoring/Zabbix/Incident-Examples.md
 - Ansible 一键配置：03-Automation/Ansible/README.md
 - Docker Compose 部署：04-Container/Docker/README.md
+
